@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "sync-17823",
+    "sync": "sync-17823"
+  },
+  "targets": {},
+  "etags": {}
+}
